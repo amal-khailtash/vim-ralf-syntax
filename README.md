@@ -31,3 +31,7 @@ This syntax file requires Vim 7 or higher and is made up of 2 files:
 * [UVM Register Abstraction Layer User Guide - Mar 2014](https://solvnet.synopsys.com/dow_retrieve/I-2014.03/VCS/uvm_ralgen_ug.pdf)
 * [VMM Register Abstraction Layer User Guide - Jul 2011](http://vmmcentral.org/pdfs/ral_user_guide.pdf)
 * [VMM Primer - Using the Register Abstraction Layer - Mar 2008](http://vmmcentral.org/pdfs/using_register_abstract_layer.pdf)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/amal-khailtash/vim-ralf-syntax/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
